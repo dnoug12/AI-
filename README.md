@@ -1,6 +1,7 @@
 📊 Phân Tích Xu Hướng AI 2025
-📌 Giới thiệu
-Dự án Phân Tích Xu Hướng AI 2025 nhằm đánh giá mức độ phát triển và ứng dụng của trí tuệ nhân tạo (AI) trên toàn cầu, tập trung vào:
+📌 Giới thiệu </br>
+Dự án Phân Tích Xu Hướng AI 2025 nhằm đánh giá mức độ phát triển và ứng dụng của trí tuệ nhân tạo (AI) trên toàn cầu, tập trung vào: </br>
+
 
 Sự phân bổ công việc AI theo từng quốc gia/khu vực.
 Mức lương trung bình theo kỹ năng và ngành nghề.
