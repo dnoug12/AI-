@@ -32,4 +32,8 @@ Dự án sử dụng các loại biểu đồ để hiển thị dữ liệu m�
 - **Dự báo xu hướng** phát triển của AI trong giai đoạn sắp tới.  
 
 ## 📂 Cấu trúc thư mục  
-
+├── data/ # Dữ liệu đầu vào (CSV, JSON, v.v.)  
+├── notebooks/ # Notebook phân tích dữ liệu  
+├── scripts/ # Mã nguồn Python để xử lý dữ liệu  
+├── visualizations/ # Hình ảnh biểu đồ trực quan  
+├── README.md # Tài liệu mô tả dự án  
