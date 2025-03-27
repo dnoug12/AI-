@@ -27,9 +27,7 @@ Dự án sử dụng các loại biểu đồ để hiển thị dữ liệu m�
 
 ## 🎯 Mục tiêu  
 
-- **Hỗ trợ doanh nghiệp** trong việc định hướng đầu tư công nghệ AI.  
-- **Giúp cá nhân** xác định kỹ năng cần học để tối ưu hóa cơ hội việc làm.  
-- **Dự báo xu hướng** phát triển của AI trong giai đoạn sắp tới.  
+- Xác định tổng quan về xu hướng AI hiện tại
 
 ## 📂 Cấu trúc thư mục  
 ├── data/ # Dữ liệu đầu vào (CSV, JSON, v.v.)  
@@ -37,3 +35,6 @@ Dự án sử dụng các loại biểu đồ để hiển thị dữ liệu m�
 ├── scripts/ # Mã nguồn Python để xử lý dữ liệu  
 ├── visualizations/ # Hình ảnh biểu đồ trực quan  
 ├── README.md # Tài liệu mô tả dự án  
+
+## Lưu ý
+- Toàn bộ bài phân tích được lấy từ dữ liệu mẫu, mang tính tham khảo và thực hành các kỹ năng cơ bản, không phản ánh hoàn toàn thực trạng hiện tại
